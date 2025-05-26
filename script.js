@@ -1,4 +1,4 @@
-
+k*=e
 // 3-hour timer
 const totalTime = 3 * 60 * 60; // 3 hours in seconds
 let timeLeft = totalTime;
